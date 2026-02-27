@@ -8,5 +8,7 @@ public class GitHubPractice_Test
 	public void githubPracticeTest()
 	{
 		System.out.println("Hello! GitHub");
+		System.out.println("hi!");
+		System.out.println("bye!");
 	}
 }
